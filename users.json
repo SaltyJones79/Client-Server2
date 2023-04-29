@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "username": "user1",
+    "password": "password1",
+    "newUser": false,
+    "boardGames": [
+      {
+        "id": 1,
+        "name": "Catan",
+        "timesPlayed": 5,
+        "lastPlayed": "2023-01-01T00:00:00.000Z",
+        "rating": 4,
+        "wins": 2,
+        "category": "Strategy"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "user2",
+    "password": "password2",
+    "newUser": false,
+    "boardGames": [
+      {
+        "id": 1,
+        "name": "Monopoly",
+        "timesPlayed": 10,
+        "lastPlayed": "2023-02-01T00:00:00.000Z",
+        "rating": 3,
+        "wins": 4,
+        "category": "Family"
+      },
+      {
+        "id": 2,
+        "name": "Ticket to Ride",
+        "timesPlayed": 7,
+        "lastPlayed": "2023-03-01T00:00:00.000Z",
+        "rating": 5,
+        "wins": 3,
+        "category": "Strategy"
+      }
+    ]
+  }
+]
